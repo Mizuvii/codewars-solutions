@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Rust
+**/target/
+
+# Editores
+.vscode/
