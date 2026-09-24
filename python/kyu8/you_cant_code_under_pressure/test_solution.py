@@ -1,4 +1,4 @@
-from solution import double_integer
+from .solution import double_integer
 
 
 def test_double_integer():
